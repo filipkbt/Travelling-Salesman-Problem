@@ -1,0 +1,12 @@
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Berlin52\Berlin52\bin\Debug\Berlin52.exe.config
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Berlin52\Berlin52\bin\Debug\Berlin52.exe
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Berlin52\Berlin52\bin\Debug\Berlin52.pdb
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Berlin52\Berlin52\obj\Debug\Berlin52.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Berlin52\Berlin52\obj\Debug\Berlin52.exe
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Berlin52\Berlin52\obj\Debug\Berlin52.pdb
+C:\Users\Filip\Documents\GitHub\Travelling-Salesman-Problem\Berlin52\Berlin52\bin\Debug\Berlin52.exe.config
+C:\Users\Filip\Documents\GitHub\Travelling-Salesman-Problem\Berlin52\Berlin52\obj\Debug\Berlin52.exe
+C:\Users\Filip\Documents\GitHub\Travelling-Salesman-Problem\Berlin52\Berlin52\obj\Debug\Berlin52.pdb
+C:\Users\Filip\Documents\GitHub\Travelling-Salesman-Problem\Berlin52\bin\Debug\Berlin52.exe.config
+C:\Users\Filip\Documents\GitHub\Travelling-Salesman-Problem\Berlin52\obj\Debug\Berlin52.exe
+C:\Users\Filip\Documents\GitHub\Travelling-Salesman-Problem\Berlin52\obj\Debug\Berlin52.pdb
